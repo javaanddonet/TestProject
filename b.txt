@@ -1,3 +1,0 @@
-this is b.txt
-
-又增加了一行
